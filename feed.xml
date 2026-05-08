@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>占いモジュール</title>
+  <id>https://uranai.mozule.co.jp/</id>
+  <link rel="alternate" href="https://uranai.mozule.co.jp/" />
+  <link rel="self" href="https://uranai.mozule.co.jp/feed.xml" />
+  <link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+  <updated>2026-05-08T00:37:39Z</updated>
+
+</feed>
